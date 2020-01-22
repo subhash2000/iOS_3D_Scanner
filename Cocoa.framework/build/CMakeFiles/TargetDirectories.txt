@@ -1,0 +1,4 @@
+/Users/subhashmacbook/Desktop/3D_Scanner/build/CMakeFiles/rebuild_cache.dir
+/Users/subhashmacbook/Desktop/3D_Scanner/build/CMakeFiles/edit_cache.dir
+/Users/subhashmacbook/Desktop/3D_Scanner/build/CMakeFiles/resampling_test.dir
+/Users/subhashmacbook/Desktop/3D_Scanner/build/CMakeFiles/pcd_write_test.dir
