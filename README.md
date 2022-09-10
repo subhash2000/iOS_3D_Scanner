@@ -1,4 +1,4 @@
-# iOS_3D_Scanner
+# Open Source iOS_3D_Scanner
 # Description
 The first mobile 3D scanner for iOS.
 Application to help building 3D models for better user experineces.
